@@ -1,0 +1,7 @@
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\bin\Debug\Practica4Ejercicio2.exe.config
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\bin\Debug\Practica4Ejercicio2.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\bin\Debug\Practica4Ejercicio2.pdb
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\obj\Debug\Practica4Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\obj\Debug\Practica4Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\obj\Debug\Practica4Ejercicio2.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio2\Practica4Ejercicio2\obj\Debug\Practica4Ejercicio2.pdb

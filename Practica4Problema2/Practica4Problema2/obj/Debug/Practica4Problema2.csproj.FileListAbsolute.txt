@@ -1,0 +1,7 @@
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\bin\Debug\Practica4Problema2.exe.config
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\bin\Debug\Practica4Problema2.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\bin\Debug\Practica4Problema2.pdb
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\obj\Debug\Practica4Problema2.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\obj\Debug\Practica4Problema2.csproj.CoreCompileInputs.cache
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\obj\Debug\Practica4Problema2.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Problema2\Practica4Problema2\obj\Debug\Practica4Problema2.pdb

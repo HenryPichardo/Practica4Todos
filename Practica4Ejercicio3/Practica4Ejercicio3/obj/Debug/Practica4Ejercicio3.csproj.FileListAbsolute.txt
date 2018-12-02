@@ -1,0 +1,6 @@
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\bin\Debug\Practica4Ejercicio3.exe.config
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\bin\Debug\Practica4Ejercicio3.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\bin\Debug\Practica4Ejercicio3.pdb
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\obj\Debug\Practica4Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\obj\Debug\Practica4Ejercicio3.exe
+C:\Users\Henry Pichardo\source\repos\Practica4Ejercicio3\Practica4Ejercicio3\obj\Debug\Practica4Ejercicio3.pdb
